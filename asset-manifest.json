@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/f4_contest1_17_06_2023_signup_form/static/css/main.6ad71bbc.css",
+    "main.js": "/f4_contest1_17_06_2023_signup_form/static/js/main.22468101.js",
+    "index.html": "/f4_contest1_17_06_2023_signup_form/index.html",
+    "main.6ad71bbc.css.map": "/f4_contest1_17_06_2023_signup_form/static/css/main.6ad71bbc.css.map",
+    "main.22468101.js.map": "/f4_contest1_17_06_2023_signup_form/static/js/main.22468101.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ad71bbc.css",
+    "static/js/main.22468101.js"
+  ]
+}
